@@ -12,7 +12,7 @@ This GitHub profile is my personal space to document cybersecurity projects arou
 *   **CompTIA CySA+** *(Active Study Track)*
 *   **SC-200** *(Active Study Track)*
 *   **Cyber Defense Certificate** – Harford Community College 
-*   **ISC2 Essentials of Cloud Computing** ☁️
+*   **ISC2 Essentials of Cloud Computing** 
 *   **Continuous Skill Building:** Python for IT Automation (DataCamp) & PowerShell Automation 
 
 ---

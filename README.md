@@ -1,4 +1,4 @@
-# Hi, I'm Jacob Johnson 👋
+# Hi, I'm Jacob Johnson 
 **IT Professional | Lifelong Tech & Security Learner** 
 
 I am a certified IT professional with over 4 years of experience working in complex healthcare infrastructure environments. My passion lies in understanding how system components connect, configuring resilient identity and access structures, and continuously expanding my technical toolkit. 
@@ -7,7 +7,7 @@ This GitHub profile serves as my personal playground and continuous learning por
 
 ---
 
-### 📚 Education, Certifications & Learning Tracks
+### Education, Certifications & Learning Tracks
 *   **CompTIA Security+** 
 *   **CompTIA CySA+** *(Active Study Track)*
 *   **SC-200** *(Active Study Track)*
@@ -17,7 +17,7 @@ This GitHub profile serves as my personal playground and continuous learning por
 
 ---
 
-### 🛠️ Hands-On Technical Focus
+### Hands-On Technical Focus
 
 | Domain | Tools, Technologies & Frameworks |
 | :--- | :--- |
@@ -28,12 +28,12 @@ This GitHub profile serves as my personal playground and continuous learning por
 
 ---
 
-### 🚀 Personal Tech Labs & Repositories
+### Personal Tech Labs & Repositories
 
 
 
 ---
 
 
-### 🤝 Connect & Collaborate
+### Connect & Collaborate
 *   **LinkedIn:** www.linkedin.com/in/jacob-j-984097266 

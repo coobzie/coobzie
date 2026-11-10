@@ -3,7 +3,7 @@
 
 I am a certified IT professional with over 4 years of experience working in complex healthcare infrastructure environments. My passion lies in understanding how system components connect, configuring resilient identity and access structures, and continuously expanding my technical toolkit. 
 
-This GitHub profile serves as my personal playground and continuous learning portfolio—a centralized space where I document hands-on labs, security automation scripts, and technical notes as I deepen my knowledge in system administration, scripting, and defensive infrastructure.
+This GitHub profile is my personal space to document cybersecurity projects around my interests and professional development.
 
 ---
 

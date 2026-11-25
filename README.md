@@ -1,9 +1,13 @@
 # Hi, I'm Jacob Johnson 
 **IT Professional | Lifelong Tech & Security Learner** 
 
-I am a certified IT professional with over 4 years of experience working in complex healthcare infrastructure environments. My passion lies in understanding how system components connect, configuring resilient identity and access structures, and continuously expanding my technical toolkit. 
+I'm an IT professional with 4+ years of experience working in healthcare IT environments. I enjoy figuring out how things work, troubleshooting complex issues, connecting systems, and finding better ways to keep infrastructure running smoothly and securely.
 
-This GitHub profile is my personal space to document cybersecurity projects around my interests and professional development.
+I'm especially interested in cybersecurity, identity and access management, system administration, and automation. I like getting hands-on with new tools, building things in my own lab, and learning by actually doing rather than just reading about it.
+
+This GitHub is where I keep some of my personal projects, experiments, and things I'm working on as I continue growing my skills in IT and cybersecurity.
+
+Outside of IT, I'm also really into aviation and flying. I enjoy flight simulation, learning about aircraft and aviation systems, and pretty much anything related to the world of aviation.
 
 ---
 

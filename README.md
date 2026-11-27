@@ -1,4 +1,4 @@
-# Hi, I'm Jacob Johnson 
+# Hi, I'm Jacob
 **IT Professional | Tech & Security Learner** 
 
 IT professional with 4+ years of experience working in healthcare IT environments. I enjoy figuring out how things work, troubleshooting complex issues, connecting systems, and finding better ways to keep infrastructure running smoothly and securely.
